@@ -8,6 +8,12 @@ body {
 }
 
 .container {
+  width: 80%;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.intro {
   background: #23424a;
   color: white;
   padding: 50px 0;
@@ -15,12 +21,4 @@ body {
 
 .intro-content {
   width: 50%;
-  max-width: 500px;
-  padding-left: 15%;
-}
-
-.more-content-container {
-  width: 85%;
-  max-width: 800px;
-  padding-left: 15%;
 }
